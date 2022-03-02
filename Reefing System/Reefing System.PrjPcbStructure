@@ -1,1 +1,9 @@
-Record=TopLevelDocument|FileName=Reefing-MCU.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Reefing-Telemetry.SchDoc|SheetNumber=4
+Record=SheetSymbol|SourceDocument=Reefing-Telemetry.SchDoc|Designator=U_Reefing-Radio|SchDesignator=U_Reefing-Radio|FileName=Reefing-Radio.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=Reefing-Radio.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Reefing-Telemetry.SchDoc|Designator=U_Reefing-Radio_MCU|SchDesignator=U_Reefing-Radio_MCU|FileName=Reefing-Radio_MCU.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Reefing-Radio_MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=Reefing-Telemetry.SchDoc|FileName=Reefing-Barometer.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Reefing-Telemetry.SchDoc|FileName=Reefing-BM.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Reefing-Telemetry.SchDoc|FileName=Reefing-PD.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Reefing-Telemetry.SchDoc|FileName=Reefing-PSU.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Reefing-Telemetry.SchDoc|FileName=Reefing-Thermocouple.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Reefing-Telemetry.SchDoc|FileName=Reefing-USB.SchDoc|SheetNumber=9
